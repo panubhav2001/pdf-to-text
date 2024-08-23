@@ -66,3 +66,9 @@ The development of this voter information extraction solution involved addressin
 
 For further details on implementation, refer to the project's source code and documentation.
 
+### File Description:
+- **`Assignment.ipynb`:** Contains the main code used to perform all operations.
+- **`Extractedinfo.xlsx`:** Contains the extracted formatted output.
+- **`Output File.xlsx`:** Actual Output. (Part of Problem Statement)
+- **`Report.docx`:** Report of the work that was done in the project.
+- **`Sample Problem.pdf`:** PDF from which the text was to be extracted. (Part of the Problem Statement)
